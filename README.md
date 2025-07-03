@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Flutter ,Firebase**
 
-- 👨‍💻 All of my projects are available at [on github](on github)
+- 👨‍💻 All of my projects are available at https://hannansaniportfolio.netlify.app/
 
 - 📫 How to reach me **hanansani8@gmail.com**
 
